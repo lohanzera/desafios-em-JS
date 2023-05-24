@@ -1,0 +1,7 @@
+/* Faça um programa para calcular o valor de uma viagem
+
+3 variáveis: 1 - preço do combustível
+             2 - valor médio gasto do carro 
+             3 - disntância em KM da viagem
+
+Imprima no console o valor total de combustível gasto */
