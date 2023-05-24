@@ -1,2 +1,2 @@
 # desafios-em-JS
-Desafios Iniciais em JavaScript
+Desafios de primeira aula de programação em JavaScript
